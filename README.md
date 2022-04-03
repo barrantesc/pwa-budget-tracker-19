@@ -7,7 +7,7 @@
 
 ### Application Demo
 
-[![image of app]()]()
+[![image of app](./asset/img/mock.png)]()
 
 ### Application Functionalities
 
